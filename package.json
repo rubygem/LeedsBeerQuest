@@ -1,0 +1,22 @@
+{
+  "name": "leedsbeerquest",
+  "version": "1.0.0",
+  "description": "Find a watering hole in Leeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubygem/LeedsBeerQuest.git"
+  },
+  "author": "@ruby_gem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubygem/LeedsBeerQuest/issues"
+  },
+  "homepage": "https://github.com/rubygem/LeedsBeerQuest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
